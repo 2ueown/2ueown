@@ -11,8 +11,8 @@
 
 <br>
 <!-- 사용 언어 비율 -->
-
-<yeowon ... img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ueown&layout=compact&theme=rose_pine"/>
+<h1>Yeowon world 🌍 </h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ueown&layout=compact&theme=rose_pine"/>
 
  <!-- Github states -->
 ![Yeowon's GitHub stats](https://github-readme-stats.vercel.app/api?username=2ueown&hide=contribs&count_private=true&show_icons=true)
