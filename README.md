@@ -13,7 +13,7 @@
 <br>
 <!-- 사용 언어 비율 -->
 
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=juyeon-Bae)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ueown&layout=compact&theme=rose_pine"/>
 
  <!-- Github states -->
 ![Yeowon's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeon-Bae&hide=contribs&count_private=true&show_icons=true)
