@@ -10,8 +10,8 @@
 </div>
 
 <br>
-<!-- 사용 언어 비율 -->
-#### 🌍 
+
+# 🌍 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ueown&layout=compact&theme=rose_pine"/>
 
  <!-- Github states -->
